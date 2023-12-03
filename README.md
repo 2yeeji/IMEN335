@@ -6,3 +6,4 @@ Final Project 1 - MySQL을 이용한 데이터베이스 구축 프로젝트: 20/
 
 Final Project 2 - 딥러닝 프로젝트: 10/10
 - 주제: 수화 이미지 데이터 분류
+- https://www.kaggle.com/datasets/grassknoted/asl-alphabet
